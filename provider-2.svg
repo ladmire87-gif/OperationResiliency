@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="850" viewBox="0 0 1400 850">
+<defs>
+  <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+    <stop offset="0" stop-color="#e6edf2"/>
+    <stop offset="1" stop-color="#ffffff"/>
+  </linearGradient>
+</defs>
+<rect width="1400" height="850" fill="url(#g)"/>
+<rect x="135" y="240" width="1130" height="420" rx="22" fill="#ffffff" opacity=".88"/>
+<rect x="220" y="320" width="290" height="260" rx="12" fill="#8fb1bd"/>
+<rect x="560" y="330" width="620" height="36" rx="18" fill="#b4cbd3"/>
+<rect x="560" y="400" width="520" height="28" rx="14" fill="#d1dfe4"/>
+<rect x="560" y="455" width="570" height="28" rx="14" fill="#d1dfe4"/>
+<rect x="560" y="510" width="430" height="28" rx="14" fill="#d1dfe4"/>
+<text x="700" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="54" font-weight="700" fill="#173947">Provider Placeholder 2</text>
+<text x="700" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#46606a">Replace with provider photo</text>
+</svg>
